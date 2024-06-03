@@ -1,17 +1,34 @@
+<div align="center">
+<h1>
+    <img src="https://github.com/VMansolelli/Projeto-Alugames-Alura/assets/138635441/b5fff654-c5a3-406e-908b-fbe963644f3e" width="150px">
+</h1>
 
-![Programação-Formação Java](https://github.com/iasminaraujoc/3355-java-screenmatch-com-jpa/assets/84939115/3c51e000-962d-4dc9-97fc-1d384e2511a2)
+</div>
 
-# Java: persistência de dados e consultas com Spring Data JPA
+## 🚀  Aprendizado de programação Java com Spring Data JPA
+Projeto desenvolvido com base no curso **Java: persistência de dados e consultas com Spring Data JPA** com o acompnahmento dos professores Jacqueline Oliveira e 
+Iasmin Araújo da escola **ALURA**.
 
-Projeto desenvolvido no segundo curso da formação Avançando com Java da Alura
+## ⚙️ Descrição do projeto
+Projetos de desenvolvimento um site back end chamado screen match que apresenta processo de busca de filmes e series.
+
+## 🎯 Objetivo 
+Através do projeto foi possível aprender os conceitos de Spring Data JPA, mapemaneto de classes, relacionamentos de entidades e banco de dados utilizando Java
+
+## 🛠 Features
+- [x] Utilização de repositórios do Spring Data JPA
+- [x] Mapeamento de classes para o banco de dados com ORM
+- [x] Relacionamentos entre entidades
+- [x] Formas de consultar o banco em uma aplicação Java
+- [x] Utilizando variáveis de ambiente para deixar seu código mais seguro
+- [x] Integração de aplicação com a API do ChatGPT
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<div align="center">By 🍃 Victor Christofoleti Mansolelli
+<h1>
+    <img src="https://github.com/VMansolelli/Projeto-Alugames-Alura/assets/138635441/b5fff654-c5a3-406e-908b-fbe963644f3e" width="50px">
+</h1>
+</div>
 
 
-## 🔨 Objetivos do projeto
-
-- Evoluir no projeto Screenmatch, iniciado no primeiro curso da formação, criando um menu com várias opções;
-- Modelar as abstrações da aplicação através de classes, enums, atributos e métodos;
-- Consumir a API do ChatGPT;
-- Utilizar o Spring Data JPA para persistir dados no banco;
-- Conhecer vários tipos de banco de dados e utilizar o PostgreSQL;
-- Trabalhar com vários tipos de consultas ao banco de dados;
-- Aprofundar na interface JPARepository
